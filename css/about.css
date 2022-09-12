@@ -1,0 +1,58 @@
+
+.about{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #F5F6F9;
+    display: flex;
+    margin-top: 80px;
+    padding-bottom: 40px;
+    
+}
+.about div.aboutBooks{
+    float: right;
+    width: 50%;
+    margin-top: 60px;
+    margin-right: 20px;
+}
+.about div.aboutImg{
+    float: left;
+    width: 50%;
+    margin-right: 30px;
+}
+.about div.aboutBooks h2{
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #0c0c0c;
+    font-size: 32px;
+    font-weight: bold;
+    
+} 
+.about div.aboutBooks p{
+    margin-bottom: 40px;
+    color: #0c0c0c;
+    font-size: 16px;
+}
+.about div.aboutBooks button{
+    
+    height: 46px;
+    width: 172px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: #44b89d;
+    color: white;
+    margin-bottom: 20px;  
+    border: none; 
+}
+.about div.aboutBooks button:hover{
+    color: #44b89d;
+    background-color: white;
+    border: 1px solid #44b89d;
+    
+}
+img.about-img{
+    
+    width: 100%;
+
+    
+    
+}

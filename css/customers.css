@@ -1,0 +1,19 @@
+.customers{
+    background-color: #FFFFFF;
+    padding-top: 80px;
+}
+.customersBox{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.customer{
+    width: 50%;
+}
+.customers h3{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+.customerPara{
+    margin-top: 1000;
+}
